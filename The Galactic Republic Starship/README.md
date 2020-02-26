@@ -5,6 +5,7 @@
 La République galactique a besoin de vous. Si ! Son immense flotte de vaisseaux prend la poussière et rouille dans les parcs de stationnement sidéraux. La faute à un système de réservation vétuste que tout le monde boude. Du travail de Gungan distrait, finalement !
 
 ## Spécifications
+
 - L’application fait appel à l’API publique Star Wars (swapi.co)
 - A l’initialisation, l’application charge la liste des véhicules Star Wars et les affiche sous la forme de fiches disposées sur une grille.
 - Chaque fiche de la grille doit contenir les informations suivantes : nom du véhicule,  marque, prix, nombre de places.
@@ -18,6 +19,7 @@ La République galactique a besoin de vous. Si ! Son immense flotte de vaisseaux
 - Le panier affichera le montant total.
 
 ## Contraintes
+
 - L’application doit être écrite en React.
 - Utiliser l’API : http://swapi.co/api/vehicles.
 - Il n’est pas nécessaire de paginer les résultats (bonus).
